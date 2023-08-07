@@ -3,13 +3,13 @@
 <details>
   <summary>Technology</summary>
   <br>
-  C#
-  Typescript
-  Dart
+  <p>C#</p>
+  <p>Typescript</p>
+  <p>Dart</p>
 </details>
 <details>
   <summary>Where I study?</summary>
   <br>
-  IT technician - Alcides maya
-  Computer Science - UTFPR
+  <p>IT technician - Alcides maya</p>
+  <p>Computer Science - UTFPR</p>
 </details>
