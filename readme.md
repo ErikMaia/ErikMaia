@@ -1,5 +1,5 @@
 # Hi, I am Erik
-## Wecome to my github liage
+## Wecome to my github
 <details>
   <summary>Technology</summary>
   <ul>
