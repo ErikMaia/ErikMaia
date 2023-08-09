@@ -12,6 +12,6 @@
   <summary>Where I study?</summary>
   <ul>
     <li>IT technician - Alcides maya</li>
-    <li>Computer Science - UTFR</li>
+    <li>Computer Science - UTFPR</li>
   </ul>
 </details>
