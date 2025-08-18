@@ -4,6 +4,7 @@
   <summary>Technology</summary>
   <ul>
     <li>C#</li>
+    <li>Python</li>
     <li>Typescript</li>
     <li>Dart</li>
   </ul>
