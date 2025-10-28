@@ -6,7 +6,9 @@
     <li>C#</li>
     <li>Python</li>
     <li>Typescript</li>
+    <li>React</li>
     <li>Dart</li>
+    <li>Golang</li>
   </ul>
 </details>
 <details>
