@@ -29,6 +29,7 @@ Gosto de atuar onde **regra de negócio, tecnologia e dados se encontram**.
 - Entity Framework
 
 **Frontend (em evolução)**
+- Nextjs
 - Angular
 - TypeScript
 - HTML / CSS
@@ -69,7 +70,7 @@ Gosto de atuar onde **regra de negócio, tecnologia e dados se encontram**.
 ## 📫 Como me encontrar
 
 - LinkedIn: https://www.linkedin.com/  
-- Email: seuemail@email.com  
+- Email: erikm384@gmail.com  
 
 ---
 
