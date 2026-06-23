@@ -69,7 +69,7 @@ Gosto de atuar onde **regra de negócio, tecnologia e dados se encontram**.
 
 ## 📫 Como me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/erik-maia-4506ba247/)
+- [LinkedIn](https://www.linkedin.com/in/erik-silva-maia/)
 - Email: erikm384@gmail.com  
 
 ---
