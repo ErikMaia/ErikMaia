@@ -1,77 +1,142 @@
-## 👋 Olá! Eu sou o Erik Maia
+# 👋 Olá, eu sou o Erik Maia
 
-💻 Desenvolvedor focado em **C# / .NET**, com forte interesse em **arquitetura de software, APIs, dados e aprendizado de máquina**.  
-Gosto de entender como os sistemas funcionam por dentro e de usar tecnologia para resolver problemas reais.
+Desenvolvedor com foco em **C# / .NET e backend**, com experiência em desenvolvimento de sistemas, integração de APIs, bancos de dados e projetos envolvendo dados, Machine Learning e IoT.
 
-🎯 Atualmente em evolução para me tornar um desenvolvedor **full stack**, estudando **Angular** e aprofundando conhecimentos em backend, bancos de dados e boas práticas de engenharia de software.
-
----
-
-## 🚀 Sobre mim
-
-- 🔧 Experiência com desenvolvimento **backend em C# (.NET)**
-- 🔌 Criação e integração de **APIs REST**
-- 🗄️ Trabalho com bancos de dados **PostgreSQL e MongoDB**
-- 🧠 Interesse em **arquitetura de sistemas**, código limpo e boas práticas
-- 📊 Experiência com **análise de dados e visualização (Power BI)**
-- 🤖 Estudando **Machine Learning** e aplicações práticas com dados
-- 🌐 Aprendendo **Angular** para construção de interfaces modernas
-
-Gosto de atuar onde **regra de negócio, tecnologia e dados se encontram**.
+Tenho interesse especial em problemas que combinam **regra de negócio, arquitetura de software, integração de sistemas e dados**.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 💻 Principais tecnologias
 
-**Backend**
+### Backend
 - C#
 - .NET / ASP.NET Core
 - Entity Framework
+- APIs REST
+- Java / Spring Boot
+- Node.js / TypeScript
 
-**Frontend (em evolução)**
-- Nextjs
+### Frontend
+- Next.js
+- React
 - Angular
 - TypeScript
 - HTML / CSS
 
-**Bancos de Dados**
+### Bancos de Dados
 - PostgreSQL
+- Oracle
+- SQL Server
 - MongoDB
-- Modelagem de dados
+- MySQL
+- Modelagem de dados e SQL
 
-**Dados & Outros**
+### Dados e Machine Learning
 - Python
+- Pandas
+- Scikit-learn
+- TensorFlow / Keras
+- PyTorch
 - Power BI
-- Git & GitHub
-- APIs REST
-- Conceitos de Cloud
+- Análise estatística e visualização de dados
+
+### Infraestrutura e Integração
+- Docker / Docker Compose
+- Nginx
+- Git / GitHub
+- MQTT
+- Redis
+- RabbitMQ
+- Integrações entre sistemas
 
 ---
 
-## 📚 Atualmente estudando
+## 🚀 Projetos em destaque
+
+### 📊 Classificação de risco de FIAGRO com Machine Learning
+Projeto desenvolvido como Trabalho de Conclusão de Curso, com foco na classificação de risco de fundos FIAGRO utilizando diferentes algoritmos de Machine Learning.
+
+Principais pontos:
+
+- Random Forest
+- SVM
+- MLP
+- k-NN
+- Naive Bayes
+- Seleção de atributos
+- SMOTE para balanceamento de classes
+- Análise de correlação
+- Avaliação por métricas de classificação
+
+🔗 [Ver repositório](https://github.com/ErikMaia/tcc)
+
+---
+
+### 🌾 Interpolação espacial aplicada à Agricultura de Precisão
+Projeto de pesquisa comparando métodos de predição espacial para dados agrícolas.
+
+Métodos avaliados:
+
+- Krigagem
+- Redes Neurais Artificiais
+- SVR
+
+Métricas utilizadas:
+
+- RMSE
+- MAE
+- R²
+- IDE / ISI
+
+🔗 [Ver repositório](https://github.com/ErikMaia/IC-RNA-agricultura)
+
+---
+
+### 🛰️ Agro Radar
+Aplicação envolvendo múltiplos serviços e tecnologias de backend, frontend e infraestrutura.
+
+Stack utilizada:
+
+- Java / Spring
+- Node.js
+- Next.js
+- Docker
+- Docker Compose
+- Nginx
+
+🔗 [Ver repositório](https://github.com/ErikMaia/agro-radar)
+
+---
+
+## 🧠 Áreas de interesse
 
 - Arquitetura de software
-- Microsserviços
-- Boas práticas de APIs
-- Angular (frontend moderno)
-- Engenharia de dados e ML
+- Desenvolvimento backend
+- Integração de sistemas
+- Sistemas distribuídos
+- Machine Learning
+- Internet das Coisas
+- Agricultura de Precisão
+- Engenharia de dados
 
 ---
 
-## 🧩 Interesses
+## 🎓 Formação
 
-- Sistemas bem estruturados e escaláveis  
-- Integração entre sistemas  
-- Uso de dados para apoiar decisões  
-- Aprendizado contínuo e evolução técnica  
+- **Mestrando em Tecnologias Computacionais no Agronegócio — UTFPR**
+- **Bacharel em Ciência da Computação — UTFPR**
+- **Técnico em Informática — Escola Técnica Alcides Maya**
+
+Atualmente desenvolvo projetos de pesquisa envolvendo **Machine Learning, visão computacional, IoT, agricultura de precisão e sistemas aplicados ao agronegócio**.
 
 ---
 
-## 📫 Como me encontrar
+## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/erik-silva-maia/)
-- Email: erikm384@gmail.com  
+- GitHub: [@ErikMaia](https://github.com/ErikMaia)
 
 ---
 
-⭐ Sempre buscando evoluir como desenvolvedor e participar de projetos que gerem impacto real.
+> Gosto de construir sistemas que resolvam problemas reais e de entender a tecnologia além da camada superficial — da arquitetura e integração até os dados que sustentam as decisões.
+```
